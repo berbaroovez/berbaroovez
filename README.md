@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Web Apps
-- emotefinder a website to help you find which BTTV and FFZ emotes are activated in a streamers channel  
+- [Emote Finder](https://emotefinder.com) a website to help you find which BTTV and FFZ emotes are activated in a streamers channel  
 
 
 ## Info :D
