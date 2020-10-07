@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**berbaroovez/berbaroovez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+## Web Apps
+- emotefinder a website to help you find which BTTV and FFZ emotes are activated in a streamers channel  
 
 - 🔭 I’m currently working on building web apps to help streamers
 - 🌱 I’m currently learning  react and firebase
